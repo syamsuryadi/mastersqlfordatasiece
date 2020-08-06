@@ -1,0 +1,2 @@
+# mastersqlfordatasiece
+using pgAdmin4
